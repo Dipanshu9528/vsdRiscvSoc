@@ -43,6 +43,7 @@ GCC_VLEN: 6
 ```
 
 #Task 2
+
 Spike Version:
 ```
 Spike RISC-V ISA Simulator 1.1.1-dev
